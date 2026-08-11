@@ -1,6 +1,6 @@
 ---
 name: human-factors-accessibility
-description: Apply anthropometrics, ergonomics, universal design, and accessibility guidance to interiors (reach, clearances, seating, counters, circulation). Use for inclusive design, ADA/universal design reviews, workplace ergonomics, aging-in-place, or accessibility critiques.
+description: "Apply anthropometrics, ergonomics, universal design, and accessibility guidance to interiors (reach, clearances, seating, counters, circulation). Use for inclusive design, ADA/universal design reviews, workplace ergonomics, aging-in-place, or accessibility critiques."
 ---
 
 # Human Factors, Ergonomics, and Accessibility

@@ -1,6 +1,6 @@
 ---
 name: furniture-fixtures-equipment
-description: Plan and specify furniture, fixtures, and equipment with sizing, clearances, ergonomics, procurement notes, and placement rationale. Use for FF&E lists, furniture plans, fixture selection, or budgeting loose furniture.
+description: "Plan and specify furniture, fixtures, and equipment with sizing, clearances, ergonomics, procurement notes, and placement rationale. Use for FF&E lists, furniture plans, fixture selection, or budgeting loose furniture."
 ---
 
 # Furniture, Fixtures, and Equipment (FFE)

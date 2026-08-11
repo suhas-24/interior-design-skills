@@ -1,6 +1,6 @@
 ---
 name: portfolio-trends-pro-development
-description: Coach interior designers on portfolios, case-study storytelling, trend literacy without trend slavery, and skill-building paths. Use for portfolio reviews, career development, trend briefs, or studio learning plans.
+description: "Coach interior designers on portfolios, case-study storytelling, trend literacy without trend slavery, and skill-building paths. Use for portfolio reviews, career development, trend briefs, or studio learning plans."
 ---
 
 # Portfolio, Trends, and Professional Development

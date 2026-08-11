@@ -1,6 +1,6 @@
 ---
 name: construction-documents-specs
-description: Structure interior construction documents and specifications: drawing organization, schedules, division notes, and bid/permit set readiness checks. Use for CD sets, finish schedules, outline specs, or reviewing document completeness.
+description: "Structure interior construction documents and specifications: drawing organization, schedules, division notes, and bid/permit set readiness checks. Use for CD sets, finish schedules, outline specs, or reviewing document completeness."
 ---
 
 # Construction Documents and Specifications

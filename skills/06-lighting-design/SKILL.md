@@ -1,6 +1,6 @@
 ---
 name: interior-lighting-design
-description: Design layered lighting plans: ambient, task, accent, and daylight control with CCT, CRI, glare, dimming, and scene intent. Use for lighting concepts, fixture schedules at concept level, dark rooms, or kitchen/bath task lighting.
+description: "Design layered lighting plans: ambient, task, accent, and daylight control with CCT, CRI, glare, dimming, and scene intent. Use for lighting concepts, fixture schedules at concept level, dark rooms, or kitchen/bath task lighting."
 ---
 
 # Interior Lighting Design

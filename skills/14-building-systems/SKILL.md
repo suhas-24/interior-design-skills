@@ -1,6 +1,6 @@
 ---
 name: interior-building-systems
-description: Coordinate interiors with building systems: HVAC, electrical, plumbing, fire protection, low-voltage, and ceiling integration at a design-coordination level. Use when furniture/ceilings conflict with MEP, planning RCPs, or preparing coordination questions.
+description: "Coordinate interiors with building systems: HVAC, electrical, plumbing, fire protection, low-voltage, and ceiling integration at a design-coordination level. Use when furniture/ceilings conflict with MEP, planning RCPs, or preparing coordination questions."
 ---
 
 # Interior Building Systems

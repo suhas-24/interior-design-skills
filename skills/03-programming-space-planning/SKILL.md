@@ -1,6 +1,6 @@
 ---
 name: programming-space-planning
-description: Translate client needs into adjacency diagrams, area programs, zoning, circulation, and furniture layouts with clearances. Use for room layouts, space programs, bubble diagrams, furniture plans, or reorganizing how a space works.
+description: "Translate client needs into adjacency diagrams, area programs, zoning, circulation, and furniture layouts with clearances. Use for room layouts, space programs, bubble diagrams, furniture plans, or reorganizing how a space works."
 ---
 
 # Programming and Space Planning

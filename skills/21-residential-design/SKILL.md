@@ -1,6 +1,6 @@
 ---
 name: residential-interior-design
-description: Design residential interiors across living, kitchen, bath, bedroom, and multi-family units with lifestyle fit, storage, and comfort. Use for homes, apartments, renovations, or room-by-room residential concepts.
+description: "Design residential interiors across living, kitchen, bath, bedroom, and multi-family units with lifestyle fit, storage, and comfort. Use for homes, apartments, renovations, or room-by-room residential concepts."
 ---
 
 # Residential Interior Design

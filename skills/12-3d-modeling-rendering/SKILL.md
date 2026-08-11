@@ -1,6 +1,6 @@
 ---
 name: 3d-modeling-rendering
-description: Guide interior 3D modeling and rendering workflows: scene setup, materials, cameras, lighting for CG, and photoreal vs diagrammatic outputs. Use for Blender/3ds Max/SketchUp/Enscape-style guidance, render critiques, or model organization.
+description: "Guide interior 3D modeling and rendering workflows: scene setup, materials, cameras, lighting for CG, and photoreal vs diagrammatic outputs. Use for Blender/3ds Max/SketchUp/Enscape-style guidance, render critiques, or model organization."
 ---
 
 # 3D Modeling and Rendering

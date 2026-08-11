@@ -1,6 +1,6 @@
 ---
 name: cad-bim-technical-drafting
-description: Support interior CAD/BIM workflows: drawing standards, layer logic, plan/elevation/section setup, IFC/BIM coordination notes, and drafting quality checks. Use when producing drawing sets, reviewing CAD/BIM files, or setting drafting conventions for interiors.
+description: "Support interior CAD/BIM workflows: drawing standards, layer logic, plan/elevation/section setup, IFC/BIM coordination notes, and drafting quality checks. Use when producing drawing sets, reviewing CAD/BIM files, or setting drafting conventions for interiors."
 ---
 
 # CAD, BIM, and Technical Drafting

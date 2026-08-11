@@ -1,6 +1,6 @@
 ---
 name: site-survey-existing-conditions
-description: Guide measured surveys, existing-conditions documentation, photo/video capture, as-built notes, and constraint inventories for interior projects. Use when starting a renovation, verifying field dimensions, documenting a site visit, or turning photos into an existing-conditions brief.
+description: "Guide measured surveys, existing-conditions documentation, photo/video capture, as-built notes, and constraint inventories for interior projects. Use when starting a renovation, verifying field dimensions, documenting a site visit, or turning photos into an existing-conditions brief."
 ---
 
 # Site Survey and Existing Conditions

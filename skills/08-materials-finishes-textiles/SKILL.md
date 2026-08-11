@@ -1,6 +1,6 @@
 ---
 name: materials-finishes-textiles
-description: Select and specify interior materials, finishes, and textiles for performance, aesthetics, maintenance, and durability. Use for finish schedules, material palettes, upholstery choices, flooring, wallcoverings, or FF&E surface decisions.
+description: "Select and specify interior materials, finishes, and textiles for performance, aesthetics, maintenance, and durability. Use for finish schedules, material palettes, upholstery choices, flooring, wallcoverings, or FF&E surface decisions."
 ---
 
 # Materials, Finishes, and Textiles

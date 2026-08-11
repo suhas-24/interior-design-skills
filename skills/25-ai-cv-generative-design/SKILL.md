@@ -1,6 +1,6 @@
 ---
 name: ai-generative-interior-design
-description: Use AI/CV/generative tools responsibly for interiors: floorplan interpretation, redesign prompts, dataset-aware caveats, and human-in-the-loop review. Use when applying AI to layouts, renders, style transfer, or computer-vision interior workflows.
+description: "Use AI/CV/generative tools responsibly for interiors: floorplan interpretation, redesign prompts, dataset-aware caveats, and human-in-the-loop review. Use when applying AI to layouts, renders, style transfer, or computer-vision interior workflows."
 ---
 
 # AI, Computer Vision, and Generative Interior Design

@@ -1,6 +1,6 @@
 ---
 name: interior-project-management
-description: Run interior project coordination: schedules, RFI/submittal awareness, meeting cadences, responsibility matrices, and site progress tracking. Use for timelines, consultant coordination, installation sequencing, or project recovery plans.
+description: "Run interior project coordination: schedules, RFI/submittal awareness, meeting cadences, responsibility matrices, and site progress tracking. Use for timelines, consultant coordination, installation sequencing, or project recovery plans."
 ---
 
 # Interior Project Management and Coordination

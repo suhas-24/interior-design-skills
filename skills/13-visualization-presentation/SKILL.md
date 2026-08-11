@@ -1,6 +1,6 @@
 ---
 name: visualization-presentation
-description: Craft client-facing interior presentations: storyboards, mood boards, slide narratives, view sequences, and image-generation prompts that preserve architecture. Use for client decks, moodboards, redesign prompts from photos, or presentation critiques.
+description: "Craft client-facing interior presentations: storyboards, mood boards, slide narratives, view sequences, and image-generation prompts that preserve architecture. Use for client decks, moodboards, redesign prompts from photos, or presentation critiques."
 ---
 
 # Visualization and Presentation

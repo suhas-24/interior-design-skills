@@ -1,6 +1,6 @@
 ---
 name: interior-color-theory
-description: Build and critique interior color schemes using undertones, value, chroma, temperature, 60-30-10 as a starting point, metamerism, and lighting interaction. Use for palettes, paint selection, mood boards, or fixing muddy/clashing schemes.
+description: "Build and critique interior color schemes using undertones, value, chroma, temperature, 60-30-10 as a starting point, metamerism, and lighting interaction. Use for palettes, paint selection, mood boards, or fixing muddy/clashing schemes."
 ---
 
 # Interior Color Theory

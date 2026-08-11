@@ -1,6 +1,6 @@
 ---
 name: healthcare-interior-design
-description: Support healthcare interior concepts with patient experience, infection-control-aware materials thinking, clearances, and staff workflow sensitivity — without clinical or code certification. Use for clinics, waiting areas, patient rooms concepts, or healthcare renovation briefs.
+description: "Support healthcare interior concepts with patient experience, infection-control-aware materials thinking, clearances, and staff workflow sensitivity — without clinical or code certification. Use for clinics, waiting areas, patient rooms concepts, or healthcare renovation briefs."
 ---
 
 # Healthcare Interior Design

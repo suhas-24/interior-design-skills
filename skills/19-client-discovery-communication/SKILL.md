@@ -1,6 +1,6 @@
 ---
 name: client-discovery-communication
-description: Run client discovery for interiors: interviews, briefs, stakeholder mapping, feedback synthesis, and decision workshops. Use for kickoffs, design critiques with clients, revising after feedback, or writing a project brief.
+description: "Run client discovery for interiors: interviews, briefs, stakeholder mapping, feedback synthesis, and decision workshops. Use for kickoffs, design critiques with clients, revising after feedback, or writing a project brief."
 ---
 
 # Client Discovery, Communication, and Presentation

@@ -1,6 +1,6 @@
 ---
 name: interior-business-ethics
-description: Advise on interior design practice operations at a high level: scope definitions, fee structures, ethical sourcing, conflicts of interest, and client agreement checklists — not formal legal advice. Use for proposals, scope emails, ethics questions, or kickoff commercial alignment.
+description: "Advise on interior design practice operations at a high level: scope definitions, fee structures, ethical sourcing, conflicts of interest, and client agreement checklists — not formal legal advice. Use for proposals, scope emails, ethics questions, or kickoff commercial alignment."
 ---
 
 # Interior Business, Contracts, and Ethics

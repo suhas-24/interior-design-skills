@@ -1,6 +1,6 @@
 ---
 name: budgeting-estimating-procurement
-description: Build interior budgets, allowances, value-engineering options, and procurement plans with lead times and alternates. Use for FF&E budgets, renovation phasing costs, owner allowances, or procurement schedules.
+description: "Build interior budgets, allowances, value-engineering options, and procurement plans with lead times and alternates. Use for FF&E budgets, renovation phasing costs, owner allowances, or procurement schedules."
 ---
 
 # Budgeting, Estimating, and Procurement

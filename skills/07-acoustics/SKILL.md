@@ -1,6 +1,6 @@
 ---
 name: interior-acoustics
-description: Improve room acoustics with absorption, diffusion, isolation strategies, NRC/finish choices, and speech privacy notes for residential and workplace interiors. Use for echoey rooms, offices, dining, media rooms, or acoustic comfort complaints.
+description: "Improve room acoustics with absorption, diffusion, isolation strategies, NRC/finish choices, and speech privacy notes for residential and workplace interiors. Use for echoey rooms, offices, dining, media rooms, or acoustic comfort complaints."
 ---
 
 # Interior Acoustics

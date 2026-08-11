@@ -1,6 +1,6 @@
 ---
 name: sustainability-wellness-ieq
-description: Improve interior sustainability and indoor environmental quality: materials emissions, daylight, thermal comfort, biophilia, water/energy awareness, and wellness frameworks. Use for healthy materials, ESG interiors, WELL/LEED-oriented discussions, or IEQ upgrades.
+description: "Improve interior sustainability and indoor environmental quality: materials emissions, daylight, thermal comfort, biophilia, water/energy awareness, and wellness frameworks. Use for healthy materials, ESG interiors, WELL/LEED-oriented discussions, or IEQ upgrades."
 ---
 
 # Sustainability, Wellness, and IEQ

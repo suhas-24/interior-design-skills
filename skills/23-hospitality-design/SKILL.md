@@ -1,6 +1,6 @@
 ---
 name: hospitality-interior-design
-description: Design hospitality interiors for hotels, restaurants, lounges, and guest journey moments with durability, brand story, and service flow. Use for F&B, hotel guestroom/public space concepts, or hospitality FF&E direction.
+description: "Design hospitality interiors for hotels, restaurants, lounges, and guest journey moments with durability, brand story, and service flow. Use for F&B, hotel guestroom/public space concepts, or hospitality FF&E direction."
 ---
 
 # Hospitality Interior Design

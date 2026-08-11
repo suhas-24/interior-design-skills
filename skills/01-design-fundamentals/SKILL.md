@@ -1,6 +1,6 @@
 ---
 name: interior-design-fundamentals
-description: Teach core interior design principles: elements and principles of design, spatial hierarchy, proportion/scale, balance, rhythm, emphasis, harmony, and concept development. Use when establishing design direction, evaluating compositions, teaching fundamentals, or reviewing a scheme for visual coherence.
+description: "Teach core interior design principles: elements and principles of design, spatial hierarchy, proportion/scale, balance, rhythm, emphasis, harmony, and concept development. Use when establishing design direction, evaluating compositions, teaching fundamentals, or reviewing a scheme for visual coherence."
 ---
 
 # Interior Design Fundamentals

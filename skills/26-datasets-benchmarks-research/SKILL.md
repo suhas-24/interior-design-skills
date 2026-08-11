@@ -1,6 +1,6 @@
 ---
 name: interior-datasets-research
-description: Find and evaluate interior/3D datasets, benchmarks, and research sources for floorplans, scenes, and vision tasks. Use when researching Replica, Hypersim, ZInD, CubiCasa, Structured3D, or building evaluation sets for interior AI.
+description: "Find and evaluate interior/3D datasets, benchmarks, and research sources for floorplans, scenes, and vision tasks. Use when researching Replica, Hypersim, ZInD, CubiCasa, Structured3D, or building evaluation sets for interior AI."
 ---
 
 # Interior Datasets, Benchmarks, and Research

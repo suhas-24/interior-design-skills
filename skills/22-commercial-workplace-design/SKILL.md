@@ -1,6 +1,6 @@
 ---
 name: commercial-workplace-design
-description: Plan workplace interiors: programming, neighborhoods, focus/collaboration mix, acoustics, power/data, and brand expression. Use for offices, coworking, workplace restacks, or hybrid-work floor plans.
+description: "Plan workplace interiors: programming, neighborhoods, focus/collaboration mix, acoustics, power/data, and brand expression. Use for offices, coworking, workplace restacks, or hybrid-work floor plans."
 ---
 
 # Commercial Workplace Design

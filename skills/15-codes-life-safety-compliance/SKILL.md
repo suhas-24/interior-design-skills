@@ -1,6 +1,6 @@
 ---
 name: codes-life-safety-compliance
-description: Provide interior code-awareness checklists for egress, occupancy, finishes, accessibility pointers, and life safety coordination — without claiming AHJ approval. Use for early compliance scans, finish flame-spread questions, or permit-set preparedness reviews.
+description: "Provide interior code-awareness checklists for egress, occupancy, finishes, accessibility pointers, and life safety coordination — without claiming AHJ approval. Use for early compliance scans, finish flame-spread questions, or permit-set preparedness reviews."
 ---
 
 # Codes, Life Safety, and Compliance
